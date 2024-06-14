@@ -1,0 +1,5 @@
+Soal
+1. Buatkan filter data mahasiswa berdasarkan NPM dengan ketentuan:
+    a. Data yang diinput hanya boleh angka, jika bukan angka, muncul pop up npm harus angka
+    b. Digit NPM harus berjumlah 13, jika kurang dari 13 muncul pop up NPM kurang dari 13
+    c. jika lebih dari 13 muncul pop up NPM lebih dari 13
